@@ -5,3 +5,7 @@ body {
 P {
    color: brown;
 }
+
+h1 {
+    font-style: oblique;
+}
