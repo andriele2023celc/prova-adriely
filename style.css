@@ -3,9 +3,14 @@ body {
 }
 
 P {
-   color: brown;
+   color: rgb(32, 2, 59);
 }
 
 h1 {
     font-style: oblique;
+}
+
+.pao {
+    color: rgb(213, 163, 247);
+    font-size: 20px;
 }
